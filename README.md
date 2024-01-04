@@ -63,10 +63,20 @@ Think which entities are needed in your project, e.g. `A server`, `a Client`, `a
 List out what features will have your application, categorized as essential and nonessential.
 
 #### Essential Features
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+- Administrador de cuentas / empresas
+   1. Crear nueva empresa
+   2. Cambiar de empresa
+   3. Buscador
+   4. Salir
+
+- Dashboard
+   1. Card (Cuentas de bando)
+       * Efectivo
+       * Balance
+   2. Card (Actividad)
+       * Importante
+       * Esta semana
+       * Filtro por: agenda, hoy, esta semana, este mes
 
 #### Non-essential Features
 - Feature 1
